@@ -1,0 +1,35 @@
+2025-06-25 16:19:33,346 - INFO - Reading Atttestation  phase3.csv
+2025-06-25 16:19:33,353 - INFO - Added 29 participants from Atttestation  phase3.csv (Phase 3)
+2025-06-25 16:19:33,353 - INFO - Reading Atttestation  phase4.csv
+2025-06-25 16:19:33,355 - INFO - Added 9 participants from Atttestation  phase4.csv (Phase 4)
+2025-06-25 16:19:33,355 - INFO - Reading Phase2_Admitted_Not_In_Phase3.csv
+2025-06-25 16:19:33,358 - INFO - Added 65 participants from Phase2_Admitted_Not_In_Phase3.csv (Phase 2)
+2025-06-25 16:19:33,360 - INFO - Combined data: 103 total entries, 92 unique participants
+2025-06-25 16:19:33,360 - INFO - Removed 11 duplicates
+2025-06-25 16:19:33,365 - INFO - Final participant count: 92
+2025-06-25 16:19:33,365 - INFO - 
+==================================================
+2025-06-25 16:19:33,365 - INFO - PARTICIPANTS SUMMARY REPORT
+2025-06-25 16:19:33,365 - INFO - ==================================================
+2025-06-25 16:19:33,365 - INFO - Total Participants: 92
+2025-06-25 16:19:33,365 - INFO - 
+Distribution by Phase:
+2025-06-25 16:19:33,365 - INFO -   Phase 2: 54 participants (Pas de certificat)
+2025-06-25 16:19:33,365 - INFO -   Phase 3: 29 participants (Certificat délivré)
+2025-06-25 16:19:33,365 - INFO -   Phase 4: 9 participants (Certificat délivré)
+2025-06-25 16:19:33,365 - INFO - 
+Top 5 Cities:
+2025-06-25 16:19:33,365 - INFO -   Bamako: 79 participants
+2025-06-25 16:19:33,366 - INFO -   bamako: 2 participants
+2025-06-25 16:19:33,366 - INFO -   Moribabougou: 2 participants
+2025-06-25 16:19:33,366 - INFO -   Kati: 2 participants
+2025-06-25 16:19:33,366 - INFO -   BAMAKO: 2 participants
+2025-06-25 16:19:33,366 - INFO - 
+Top 5 Establishments:
+2025-06-25 16:19:33,366 - INFO -   Lyc. technique de Bko: 8 participants
+2025-06-25 16:19:33,366 - INFO -   Lyc. Tech. de Bko: 5 participants
+2025-06-25 16:19:33,366 - INFO -   Lyc. Planète Enfants: 4 participants
+2025-06-25 16:19:33,366 - INFO -   Lyc. El Hadj Karim Traoré: 3 participants
+2025-06-25 16:19:33,366 - INFO -   Lyc. planète enfants: 2 participants
+2025-06-25 16:19:33,366 - INFO - ==================================================
+2025-06-25 16:19:33,439 - INFO - PDF successfully generated: IOAI_2025_Participants_List_20250625_161933.pdf

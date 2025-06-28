@@ -1,0 +1,30 @@
+2025-06-25 16:09:15,563 - INFO - Reading Atttestation  phase3.csv
+2025-06-25 16:09:15,567 - INFO - Added 29 participants from Atttestation  phase3.csv
+2025-06-25 16:09:15,567 - INFO - Reading Atttestation  phase4.csv
+2025-06-25 16:09:15,570 - INFO - Added 9 participants from Atttestation  phase4.csv
+2025-06-25 16:09:15,570 - INFO - Reading Phase2_Admitted_Not_In_Phase3.csv
+2025-06-25 16:09:15,572 - INFO - Added 65 participants from Phase2_Admitted_Not_In_Phase3.csv
+2025-06-25 16:09:15,573 - INFO - Combined data: 103 total entries, 92 unique participants
+2025-06-25 16:09:15,573 - INFO - Removed 11 duplicates
+2025-06-25 16:09:15,577 - INFO - Final participant count: 92
+2025-06-25 16:09:15,577 - INFO - 
+==================================================
+2025-06-25 16:09:15,577 - INFO - PARTICIPANTS SUMMARY REPORT
+2025-06-25 16:09:15,577 - INFO - ==================================================
+2025-06-25 16:09:15,577 - INFO - Total Participants: 92
+2025-06-25 16:09:15,577 - INFO - 
+Top 5 Cities:
+2025-06-25 16:09:15,577 - INFO -   Bamako: 79 participants
+2025-06-25 16:09:15,577 - INFO -   bamako: 2 participants
+2025-06-25 16:09:15,578 - INFO -   Moribabougou: 2 participants
+2025-06-25 16:09:15,578 - INFO -   Kati: 2 participants
+2025-06-25 16:09:15,578 - INFO -   BAMAKO: 2 participants
+2025-06-25 16:09:15,578 - INFO - 
+Top 5 Establishments:
+2025-06-25 16:09:15,578 - INFO -   Lycée technique de Bamako: 8 participants
+2025-06-25 16:09:15,578 - INFO -   Lycée Technique de Bamako: 5 participants
+2025-06-25 16:09:15,578 - INFO -   Lycée Planète Enfants: 4 participants
+2025-06-25 16:09:15,578 - INFO -   Lycée El Hadj Karim Traoré: 3 participants
+2025-06-25 16:09:15,578 - INFO -   Lycée planète enfants: 2 participants
+2025-06-25 16:09:15,578 - INFO - ==================================================
+2025-06-25 16:09:15,606 - INFO - PDF successfully generated: IOAI_2025_Participants_List_20250625_160915.pdf

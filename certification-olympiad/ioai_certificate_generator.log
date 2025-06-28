@@ -1,0 +1,76 @@
+2025-06-20 09:00:56,221 - INFO - Successfully loaded 65 participant records
+2025-06-20 09:00:56,221 - INFO - Initialized IOAI Certificate Generator
+2025-06-20 09:00:56,221 - INFO - Template: INTERNATIONAL OLYMPIAD IN ARTIFICIAL INTELLIGENCE (IOAI) 2025 - PHASE 2.pdf
+2025-06-20 09:00:56,221 - INFO - Data source: Phase2_Admitted_Not_In_Phase3.csv
+2025-06-20 09:00:56,222 - INFO - Output directory: generated_certificates
+2025-06-20 09:00:56,222 - INFO - Participants loaded: 65
+2025-06-20 09:00:56,222 - INFO - Starting batch certificate generation...
+2025-06-20 09:00:56,304 - INFO - Generated certificate: IOAI_2025_Certificate_Tabara_keita_olp-micenas-uhs3g12.pdf
+2025-06-20 09:00:56,374 - INFO - Generated certificate: IOAI_2025_Certificate_Alphady_Sadio_Diarra_olp-megara-hri8v78.pdf
+2025-06-20 09:00:56,432 - INFO - Generated certificate: IOAI_2025_Certificate_Mohamed_Dourbéla_olp-micenas-yec2s16.pdf
+2025-06-20 09:00:56,492 - INFO - Generated certificate: IOAI_2025_Certificate_Bakary_Diakité_olp-argos-gld7i02.pdf
+2025-06-20 09:00:56,550 - INFO - Generated certificate: IOAI_2025_Certificate_Mariam_F_Sidibé_olp-tebas-ifg9z84.pdf
+2025-06-20 09:00:56,621 - INFO - Generated certificate: IOAI_2025_Certificate_Samuel_DIARRA_olp-argos-lza3s07.pdf
+2025-06-20 09:00:56,678 - INFO - Generated certificate: IOAI_2025_Certificate_Bodé_Niangadou_olp-corinto-zrs4d11.pdf
+2025-06-20 09:00:56,733 - INFO - Generated certificate: IOAI_2025_Certificate_Soumaïla_Touré_olp-tebas-wfj8y18.pdf
+2025-06-20 09:00:56,795 - INFO - Generated certificate: IOAI_2025_Certificate_Idrissa_sangaré_olp-megara-oru4f74.pdf
+2025-06-20 09:00:56,854 - INFO - Generated certificate: IOAI_2025_Certificate_Madiou_Mohamed_cisse_olp-olimpia-oun8i68.pdf
+2025-06-20 09:00:56,915 - INFO - Generated certificate: IOAI_2025_Certificate_Awa_Cisse_olp-atenas-nrs7y66.pdf
+2025-06-20 09:00:56,973 - INFO - Generated certificate: IOAI_2025_Certificate_Dramé_Aboubacar_josé_olp-corinto-rdo8y38.pdf
+2025-06-20 09:00:57,027 - INFO - Generated certificate: IOAI_2025_Certificate_Mohamed_Diarra_olp-olimpia-xfp6s09.pdf
+2025-06-20 09:00:57,082 - INFO - Generated certificate: IOAI_2025_Certificate_Mamadou_Keïta_olp-troia-bzp9j03.pdf
+2025-06-20 09:00:57,137 - INFO - Generated certificate: IOAI_2025_Certificate_Amina_Oumar_Traoré_olp-corinto-xzr3t19.pdf
+2025-06-20 09:00:57,194 - INFO - Generated certificate: IOAI_2025_Certificate_Mamadou_Fofana_olp-olimpia-yew0f79.pdf
+2025-06-20 09:00:57,249 - INFO - Generated certificate: IOAI_2025_Certificate_Idrissa_Emanuel_camara_olp-maratona-qml0y05.pdf
+2025-06-20 09:00:57,296 - INFO - Generated certificate: IOAI_2025_Certificate_Cheick_Khalif_Bilal_GUINDO_olp-corinto-qnx7n80.pdf
+2025-06-20 09:00:57,349 - INFO - Generated certificate: IOAI_2025_Certificate_Mamadou_minthe_olp-argos-ftl8n10.pdf
+2025-06-20 09:00:57,409 - INFO - Generated certificate: IOAI_2025_Certificate_Aïchata_Théra_olp-atenas-gqj1a12.pdf
+2025-06-20 09:00:57,466 - INFO - Generated certificate: IOAI_2025_Certificate_Boubacar_Diam_SANGARE_olp-atenas-hld6q62.pdf
+2025-06-20 09:00:57,516 - INFO - Generated certificate: IOAI_2025_Certificate_abdoulayenimaga_olp-corinto-irs7l55.pdf
+2025-06-20 09:00:57,572 - INFO - Generated certificate: IOAI_2025_Certificate_Illo_cissoko_olp-megara-zpt8z97.pdf
+2025-06-20 09:00:57,626 - INFO - Generated certificate: IOAI_2025_Certificate_Nana_Siriki_Keïta_olp-atenas-vxs4x48.pdf
+2025-06-20 09:00:57,681 - INFO - Generated certificate: IOAI_2025_Certificate_Youssouf_Doukouré_olp-creta-enu4q91.pdf
+2025-06-20 09:00:57,733 - INFO - Generated certificate: IOAI_2025_Certificate_Mahamane_Toure_olp-pergamo-zsn1n18.pdf
+2025-06-20 09:00:57,788 - INFO - Generated certificate: IOAI_2025_Certificate_Ibrahim_Djimé_Diakité_olp-olimpia-vke7g27.pdf
+2025-06-20 09:00:57,847 - INFO - Generated certificate: IOAI_2025_Certificate_Aliétou_dite_Coumba_sidibé_olp-maratona-scl5h92.pdf
+2025-06-20 09:00:57,899 - INFO - Generated certificate: IOAI_2025_Certificate_Ali_Karim_Bagayoko_olp-esparta-ase1a41.pdf
+2025-06-20 09:00:57,956 - INFO - Generated certificate: IOAI_2025_Certificate_Abdrahamane_samaké_olp-tebas-zro5a93.pdf
+2025-06-20 09:00:58,021 - INFO - Generated certificate: IOAI_2025_Certificate_TANGARA_ABDOULAYE_olp-corinto-enz4i18.pdf
+2025-06-20 09:00:58,075 - INFO - Generated certificate: IOAI_2025_Certificate_Nouh_Aly_BARRY_olp-esparta-rvt5p89.pdf
+2025-06-20 09:00:58,131 - INFO - Generated certificate: IOAI_2025_Certificate_Mohamed_Maïga_olp-pergamo-qtp4h04.pdf
+2025-06-20 09:00:58,192 - INFO - Generated certificate: IOAI_2025_Certificate_Boubou_Sacko_olp-corinto-gdh4g19.pdf
+2025-06-20 09:00:58,251 - INFO - Generated certificate: IOAI_2025_Certificate_Oumou_Bocoum_olp-delfos-uyt3y89.pdf
+2025-06-20 09:00:58,305 - INFO - Generated certificate: IOAI_2025_Certificate_Oumar_Diakite_olp-creta-une0f60.pdf
+2025-06-20 09:00:58,378 - INFO - Generated certificate: IOAI_2025_Certificate_Mamadou_sissoko_olp-delfos-exv9b92.pdf
+2025-06-20 09:00:58,436 - INFO - Generated certificate: IOAI_2025_Certificate_Mariam_Sanogo_olp-micenas-siy6e10.pdf
+2025-06-20 09:00:58,508 - INFO - Generated certificate: IOAI_2025_Certificate_Kadidiatou_Thienta_olp-corinto-tyn7m26.pdf
+2025-06-20 09:00:58,577 - INFO - Generated certificate: IOAI_2025_Certificate_Seydou_Diafra_Diallo_olp-esparta-kfu6a58.pdf
+2025-06-20 09:00:58,641 - INFO - Generated certificate: IOAI_2025_Certificate_Aboubacar_Diarra_olp-micenas-bmy8i07.pdf
+2025-06-20 09:00:58,701 - INFO - Generated certificate: IOAI_2025_Certificate_Ibrahima_Manian_Diarra_olp-tebas-yqu5h18.pdf
+2025-06-20 09:00:58,757 - INFO - Generated certificate: IOAI_2025_Certificate_Fatoumata_Sidibé_olp-maratona-dkh4s21.pdf
+2025-06-20 09:00:58,821 - INFO - Generated certificate: IOAI_2025_Certificate_Fatoumata_Kopama_THIENTA_olp-tebas-wpz7x20.pdf
+2025-06-20 09:00:58,884 - INFO - Generated certificate: IOAI_2025_Certificate_Alfousséni_Mambé_Soumaré_olp-esparta-hzc8p57.pdf
+2025-06-20 09:00:58,949 - INFO - Generated certificate: IOAI_2025_Certificate_Hawa_Diallo_olp-argos-yvr3t43.pdf
+2025-06-20 09:00:59,007 - INFO - Generated certificate: IOAI_2025_Certificate_Cheick_Hamala_GUEYE_olp-argos-fcu7v35.pdf
+2025-06-20 09:00:59,069 - INFO - Generated certificate: IOAI_2025_Certificate_Moussa_Traoré_olp-argos-fbh9e65.pdf
+2025-06-20 09:00:59,130 - INFO - Generated certificate: IOAI_2025_Certificate_Mariam_Dembélé_olp-delfos-iuz6h64.pdf
+2025-06-20 09:00:59,188 - INFO - Generated certificate: IOAI_2025_Certificate_Bintou_Zoumana_Ouattara_olp-micenas-dsz6i80.pdf
+2025-06-20 09:00:59,250 - INFO - Generated certificate: IOAI_2025_Certificate_Aichatou_dite_Issi_Coulibaly_olp-maratona-zbl4q30.pdf
+2025-06-20 09:00:59,309 - INFO - Generated certificate: IOAI_2025_Certificate_Alfoussein_Ballo_olp-tebas-pbw6k15.pdf
+2025-06-20 09:00:59,366 - INFO - Generated certificate: IOAI_2025_Certificate_Nouhoum_Dicko_olp-micenas-obq3m61.pdf
+2025-06-20 09:00:59,425 - INFO - Generated certificate: IOAI_2025_Certificate_Youssouf_Sekou_MAIGA_olp-micenas-mpc6j80.pdf
+2025-06-20 09:00:59,487 - INFO - Generated certificate: IOAI_2025_Certificate_Mamadou_Modibo_Kane_olp-delfos-qeg0s17.pdf
+2025-06-20 09:00:59,551 - INFO - Generated certificate: IOAI_2025_Certificate_Aïna_Mohamed_El_Moctar_Maïga_olp-creta-acl8l96.pdf
+2025-06-20 09:00:59,614 - INFO - Generated certificate: IOAI_2025_Certificate_Abigaïl_Kamaté_olp-corinto-bgs3m31.pdf
+2025-06-20 09:00:59,678 - INFO - Generated certificate: IOAI_2025_Certificate_Mamadou_Issaka_Diarra_olp-maratona-fkt4w98.pdf
+2025-06-20 09:00:59,736 - INFO - Generated certificate: IOAI_2025_Certificate_Cheickna_Sidi_CISSE_olp-olimpia-iza2i00.pdf
+2025-06-20 09:00:59,799 - INFO - Generated certificate: IOAI_2025_Certificate_Mady_tounkara_olp-micenas-hbs2c31.pdf
+2025-06-20 09:00:59,862 - INFO - Generated certificate: IOAI_2025_Certificate_Issa_Doumbia_olp-esparta-ima6z19.pdf
+2025-06-20 09:00:59,922 - INFO - Generated certificate: IOAI_2025_Certificate_Ramata_Kanté_olp-megara-acm8u29.pdf
+2025-06-20 09:00:59,988 - INFO - Generated certificate: IOAI_2025_Certificate_Zeinab_Abibata_Traoré_olp-megara-mvt7t30.pdf
+2025-06-20 09:01:00,067 - INFO - Generated certificate: IOAI_2025_Certificate_Mariam_SY_olp-megara-xjk6w30.pdf
+2025-06-20 09:01:00,131 - INFO - Generated certificate: IOAI_2025_Certificate_Aïssata_Poudiougou_olp-delfos-eof6w92.pdf
+2025-06-20 09:01:00,131 - INFO - Certificate generation complete!
+2025-06-20 09:01:00,131 - INFO - Successfully generated: 65 certificates
+2025-06-20 09:01:00,131 - INFO - Errors encountered: 0
+2025-06-20 09:01:00,140 - INFO - Summary report saved: IOAI_2025_Certificate_Generation_Report_20250620_090100.csv
